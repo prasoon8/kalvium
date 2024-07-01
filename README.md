@@ -96,4 +96,5 @@ This repository contains a script to scrape election results data from the Elect
 
 2. The script will fetch the election results data from the specified URL and save it to `kar_data.csv`.
 
+![Screenshot 2024-06-28 at 10 52 13 PM](https://github.com/prasoon8/kalvium/assets/156693039/413bbc32-b816-425c-a421-79e1925a4208)
 
